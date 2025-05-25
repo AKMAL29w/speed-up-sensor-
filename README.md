@@ -33,3 +33,16 @@ Does not work on devices without a hardware gyroscope sensor
 If you are using other tweak modules that change all sensors (such as "Sensor Faster"), it is recommended to disable them to avoid conflicts.
 
 This module does not permanently modify the system and can be disabled at any time via LSPosed Manager.
+
+## Credits & Original Source
+
+This module is a modification of the original LSPosed module created by [@w2016561536]
+which was last updated in 2022.
+
+The purpose of this modification is to adapt the module to work better with newer Android versions and devices,  
+and to optimize gyroscope performance, especially for gaming purposes.
+
+All credits for the original version belong to the original creator.
+
+If the original creator wishes for this modification to be taken down or given additional attribution,  
+please feel free to contact me via GitHub.
